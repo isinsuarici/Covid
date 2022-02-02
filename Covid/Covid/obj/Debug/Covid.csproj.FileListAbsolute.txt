@@ -1,0 +1,7 @@
+C:\Users\casper\source\repos\Covid\Covid\bin\Debug\Covid.exe.config
+C:\Users\casper\source\repos\Covid\Covid\bin\Debug\Covid.exe
+C:\Users\casper\source\repos\Covid\Covid\bin\Debug\Covid.pdb
+C:\Users\casper\source\repos\Covid\Covid\obj\Debug\Covid.csprojAssemblyReference.cache
+C:\Users\casper\source\repos\Covid\Covid\obj\Debug\Covid.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\Covid\Covid\obj\Debug\Covid.exe
+C:\Users\casper\source\repos\Covid\Covid\obj\Debug\Covid.pdb
